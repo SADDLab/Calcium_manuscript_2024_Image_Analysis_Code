@@ -1,4 +1,4 @@
-This repository contains the calcium image analysis and mathamatical simulation code for the manuscript: **Local traveling waves of cytosolic calcium elicited by defense signals or wounding are propagated by distinct mechanisms.** (link for the published manuscript: )
+This repository contains the calcium image analysis and mathematical simulation code for the manuscript: **Local traveling waves of cytosolic calcium elicited by defense signals or wounding are propagated by distinct mechanisms.** (link for the published manuscript: )
 
 
 **MATLAB code (three files)**: this code analyzes the peak features of calcium intensity traces (normalized as (F-F0)/F0)) using the MATLAB *findpeaks* function. 
