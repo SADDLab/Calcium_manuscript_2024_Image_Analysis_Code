@@ -9,4 +9,4 @@ Zhang, Weiwei, Nilay Kumar, Jessica R. Helwig, Alexis Hoerter, Anjali S. Iyer-Pa
 
 Please see the "Materials and Methods" section of the manuscript for more details. For inquiries related to the code, please contact:
 
-Dr. Weiwei Zhang; Senior Scientist Plant Cell Biologist Department of Biological Sciences Purdue University, West Lafayette, IN Email: zhan2190@purdue.edu
+Dr. Weiwei Zhang; Senior Scientist, Plant Cell Biologist, Purdue University, West Lafayette, IN. Email: zhan2190@purdue.edu
