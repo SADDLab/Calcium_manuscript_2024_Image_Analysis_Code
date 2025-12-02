@@ -1,6 +1,6 @@
 This repository contains the calcium image analysis code for the manuscript: 
 
-Zhang, Weiwei, Nilay Kumar, Jessica R. Helwig, Alexis Hoerter, Anjali S. Iyer-Pascuzzi, David M. Umulis, Elsje Pienaar, and Christopher J. Staiger. "Local traveling waves of cytosolic calcium elicited by defense signals or wounding are propagated by distinct mechanisms." bioRxiv (2025): 2025-01.(https://doi.org/10.1101/2025.01.23.634554)
+Zhang, Weiwei, Nilay Kumar, Jessica R. Helwig, Alexis Hoerter, Anjali S. Iyer-Pascuzzi, David M. Umulis, Elsje Pienaar, and Christopher J. Staiger. "Local traveling waves of cytosolic Ca2+ elicited by defense signals or wounding are propagated by distinct mechanisms in Arabidopsis." Sci. Signal.18,eadw2270(2025).DOI:10.1126/scisignal.adw2270
 
 
 **MATLAB code (three files)**: this code analyzes the peak features of calcium intensity traces (normalized as (F-F0)/F0)) using the MATLAB *findpeaks* function. 
